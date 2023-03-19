@@ -6,7 +6,7 @@
 #### • Cliente	: Docentes y Tutores
 #### •  Licencia y Gobernanza:   MIT	
 #### • Repositorio:	https://github.com/AlexEnigmaCode/TIP
-#### • Icono	:
+#### • Icono	:   <icono/https://github.com/AlexEnigmaCode/TIP/main/assets/TIPLOGO.png>
 
 
 ## Tecnologías	:
