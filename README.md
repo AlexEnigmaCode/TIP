@@ -19,7 +19,7 @@
 ## Integrantes:
 
 #### Nombre: Alejandro Gustavo Fariña
-M#### ail: algoritmosale@gmail.com
+#### Mail: algoritmosale@gmail.com
 #### Discord: Alejandro  Fariña#3963
 #### Github: https://github.com/AlexEnigmaCode
 
