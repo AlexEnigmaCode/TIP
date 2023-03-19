@@ -7,9 +7,7 @@
 #### •  Licencia y Gobernanza:   MIT	
 #### • Repositorio:	https://github.com/AlexEnigmaCode/TIP
 #### • Icono	:
-#### Labels	
-#### Milestones	
-#### Backlog	
+
 
 ## Tecnologías	:
 #### Front End :                React js - Materialize
@@ -20,12 +18,12 @@
 
 ## Integrantes:
 
-Nombre: Alejandro Gustavo Fariña
-Mail: algoritmosale@gmail.com
-Discord: Alejandro  Fariña#3963
-Github: https://github.com/AlexEnigmaCode
+#### Nombre: Alejandro Gustavo Fariña
+M#### ail: algoritmosale@gmail.com
+#### Discord: Alejandro  Fariña#3963
+#### Github: https://github.com/AlexEnigmaCode
 
-Nombre: Cristian Ariel Gonzalez
-Mail: cristian.gonzalez.unq@gmail.com
-Discord: Cristian Gonzalez#0918
-Github: https://github.com/CristianGonzalez1980
+#### Nombre: Cristian Ariel Gonzalez
+#### Mail: cristian.gonzalez.unq@gmail.com
+#### Discord: Cristian Gonzalez#0918
+#### Github: https://github.com/CristianGonzalez1980
