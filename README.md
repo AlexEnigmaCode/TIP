@@ -28,5 +28,5 @@
 #### Discord: Cristian Gonzalez#0918
 #### Github: https://github.com/CristianGonzalez1980
 
-## Links a Entregas;
+## Links a Entregas
 #### Prueba de Concepto: 
