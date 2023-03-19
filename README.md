@@ -5,7 +5,7 @@
 #### Es un software de control de asistencia y tareas, pensado para automatizar las tareas de gestión académica para tutores de la materia del taller de vida universitaria con posibilidad de extensión a futuro. 	
 #### • Cliente	: Docentes y Tutores
 #### •  Licencia y Gobernanza:   MIT	
-#### • Repositorio:	TIP
+#### • Repositorio:	https://github.com/AlexEnigmaCode/TIP
 #### • Icono	:
 #### Labels	
 #### Milestones	
