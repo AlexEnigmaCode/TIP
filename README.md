@@ -1,5 +1,6 @@
 # TIP Grupo 5  Agile Tutor
 ## Proyecto:
+<IMG SRC="https://github.com/AlexEnigmaCode/TIP/blob/main/assets/TIPLOGO.png" ALT="ICONO">
 #### • Nombre : "Agile Tutor"
 #### • Descripción : 
 #### Es un software de control de asistencia y tareas, pensado para automatizar las tareas de gestión académica para tutores de la materia del taller de vida universitaria con posibilidad de extensión a futuro. 	
