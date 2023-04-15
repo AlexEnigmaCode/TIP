@@ -28,4 +28,4 @@
 #### Github: https://github.com/CristianGonzalez1980
 
 ## Links a Entregas
-#### Prueba de Concepto: 
+#### Prueba de Concepto: https://github.com/AlexEnigmaCode/TIP/wiki/poc
